@@ -81,8 +81,9 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel fuck
+                    Laravel foo
                 </div>
+                <p><?= date('Y/m/d H:i:s') ?></p>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
